@@ -1,0 +1,1 @@
+This is an attempt to clone the Google Homepage's appearance. I will use Chrome dev tools, style.css, index.html. I'll see what I can add to its media queris, perhaps. I'll list what I actually ended up doing later in this readme.
